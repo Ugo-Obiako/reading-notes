@@ -7,5 +7,7 @@ Individuals that do not give up challenges have a growth mindset. They believe t
 ***Reminders to yourself of how to keep yourself in growth mindset***
 1. Set realistic goals.
 2. Always learn something new.
-3. Seek feedback.
+3. disregard item number three
+4. _Seek feedback._
+   
 
