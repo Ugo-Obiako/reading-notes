@@ -10,4 +10,4 @@ I am Ugo Obiako. This page contains a link to my Code 102 notes.
 
 [Note 3](https://ugo-obiako.github.io/reading-notes//code%20102%20notes/code102-note3)
 
-[Note 3b](https://ugo-obiako.github.io/reading-notes//code 102 notes/code102-note3b)
+[Note 3b](https://ugo-obiako.github.io/reading-notes//code%20102%20notes/code102-note3b)

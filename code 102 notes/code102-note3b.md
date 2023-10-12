@@ -1,5 +1,4 @@
-# 
-Read 03 - Revisions and the Cloud
+# Read 03 - Revisions and the Cloud
 
 #### What is Version Control?
 
