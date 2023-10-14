@@ -9,6 +9,3 @@ CSS is used to control the look and feel of web pages. CSS improves accessibilit
 - Inline
 - Embedded CSS.
 - Linking an external CSS file to your HTML document using the link element in the head section.
-
-[Note 5](https://ugo-obiako.github.io/reading-notes//code%20102%20notes/code102-note5)
-
