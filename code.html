@@ -11,13 +11,12 @@
 
      document.write("<p>Hello World</p>")
 
-     var distance = prompt("What is the distance between points a and b", "Enter an integer");
+     var num = prompt("Enter a number between 10 and 50", "");
 
-     if (distance <= 25) {document.write("a is close to b")}
+     if (num >= 10 && num <= 50) {document.write("That is correct, you entered a number between 10 and 50")}
 
-     else if (distance > 25) {document.write("a is not close to b")}
      
-     else {document.write("Enter an integer")};
+     else {document.write("You did not enter a number between 10 and 50, try again")};
      
      distance;
      
