@@ -8,7 +8,7 @@ Control flow is the order in which the computer executes statements in a script.
 
 A JavaScript function is a block of code designed to perform a particular task.
 
-#### What does it mean to invoke - or call - a function?
+#### What does it mean to invoke or call a function?
 
 Invoking or calling a function means to execute the code or instructions defined within that function. Functions can be called in various ways such as:
 

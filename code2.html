@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,17 +7,18 @@
 </head>
 <body>
     <script>
+     
+     function getNum(){
+      var num = prompt("Enter a number between 10 and 50", "");
+      if (num >= 10 && num <= 50) {document.write("That is correct, you entered a number between 10 and 50")}
+      else {document.write("You did not enter a number between 10 and 50, try again")};
+     }
 
      alert("Hello World")
 
      document.write("<p>Hello World</p>")
 
-
-     var num = prompt("Enter a number between 10 and 50", "");
-
-     if (num >= 10 && num <= 50) {document.write("That is correct, you entered a number between 10 and 50")}
-
-     else {document.write("You did not enter a number between 10 and 50, try again")};
+     getNum();
      
      console.log("This is a test code.")
      
