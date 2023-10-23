@@ -1,10 +1,10 @@
-# Home Page
+# Reading Notes
 
 Hello,
 
 I am Ugo Obiako. This page contains links to my Code 102 and Code 201 notes.
 
-## Code 102
+## Code 102 - Intro to Software Development
 
 [Note 1](https://ugo-obiako.github.io/reading-notes//code%20102%20notes/code102-note1)
 
@@ -24,7 +24,7 @@ I am Ugo Obiako. This page contains links to my Code 102 and Code 201 notes.
 
 [Note 8](https://ugo-obiako.github.io/reading-notes//code%20102%20notes/code102-note8)
 
-## Code 201
+## Code 201 - Foundations of Software Development
 
 [Note 1](https://ugo-obiako.github.io/reading-notes//code%20201%20notes/code201-note1)
 
