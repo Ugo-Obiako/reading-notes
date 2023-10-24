@@ -24,7 +24,9 @@ I am Ugo Obiako. This page contains links to my Code 102 and Code 201 notes.
 
 [Note 8](https://ugo-obiako.github.io/reading-notes//code%20102%20notes/code102-note8)
 
-## Things I want to know more about
+## Things I want to know more 
+
+JS Bin
 
 ## Code 201 - Foundations of Software Development
 
