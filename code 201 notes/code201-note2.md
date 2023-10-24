@@ -70,7 +70,7 @@ Else if statement is used to provide additional conditions to be evaluated if th
 - equal to 
 - not equal to 
 
-What is the difference between the logical operator && and ||?
+What is the difference between the logical operator && and "||" ?
 
-The logical operator && stands for "AND" while the logical operator || stands for "OR".
+The logical operator && stands for "AND" while the logical operator "||" stands for "OR".
 
