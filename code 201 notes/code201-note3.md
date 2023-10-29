@@ -82,6 +82,6 @@ A conditional statement can be used when making a decision between two alternati
 
 #### 6.  Give an example of when a Loop is useful in JavaScript.
 
-A loop can be used for performing repititive tasks as long as a certain condition remains valid. The loop stops when the condition is no longer valid.
+A loop can be used for performing repetitive tasks as long as a certain condition remains valid. The loop stops when the condition is no longer valid.
 
 # Things I want to know more about:
