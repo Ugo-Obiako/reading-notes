@@ -42,7 +42,9 @@ Margin box: The margin is the outermost layer, wrapping the content, padding, an
 
 Strings, numbers, objects, and even other arrays.
 
-#### 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+#### 2. Is the `people` array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
+`const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
 
 `people` is a valid array. You can access individual items in the array using bracket notation and supplying the item's index. For a multidimensional array, you can access an item inside an array that is itself inside another array by chaining two sets of square brackets together.
 
@@ -60,6 +62,16 @@ Division assignment: x /= f(); Meaning: x = x / f()
 
 #### 4.  Read the code below and evaluate the last expression and explain what the result would be and why.
 
+> let a = 10;
+>
+> let b = 'dog';
+>
+> let c = false;
+>
+> // evaluate this
+>
+>(a + c) + b;
+
 - JavaScript will perform type coercion and treat c (a boolean) as 0 when used in a numeric context. (a + c) becomes 10 + 0, which equals 10 (a number).
 
 - JavaScript converts the number 10 to a string. 10 is then concatenated with the string 'dog', resulting in the string '10dog'.
@@ -72,4 +84,4 @@ A conditional statement can be used when making a decision between two alternati
 
 A loop can be used for performing repititive tasks as long as a certain condition remains valid. The loop stops when the condition is no longer valid.
 
-# Things I want to know more about
+# Things I want to know more about:

@@ -59,3 +59,5 @@ JS Bin
 [Note 14](https://ugo-obiako.github.io/reading-notes//code%20201%20notes/code201-note14)
 
 [Note 15](https://ugo-obiako.github.io/reading-notes//code%20201%20notes/code201-note15)
+
+## Things I want to know more about
