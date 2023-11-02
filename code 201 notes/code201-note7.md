@@ -51,3 +51,5 @@ In object literal, the term `this` refers to the object that is described by the
 #### Explain prototypes and inheritance via an analogy from your previous work experience. NOTE: This is a very common front end developer interview question.
 
 Prototypes and inheritance are used to create new objects that inherit common properties and methods from existing prototypes while allowing for customization and extension as needed. This is a powerful concept that enables code reusability, modularity, and object-oriented programming in JavaScript, similar to how books in a library share common information while having their unique content.
+
+# Things I want to know more about
