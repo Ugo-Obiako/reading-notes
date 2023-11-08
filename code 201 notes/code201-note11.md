@@ -61,3 +61,5 @@ The sizes attribute defines the size of the image element relative to the viewpo
 - With srcset, the browser automatically selects the most appropriate image based on the device's screen resolution and viewport size. This ensures that users receive the best image for their specific device without any manual intervention or scripting.
 
 - srcset allows the browser to download only the necessary image resources, reducing unnecessary data transfer. This is especially important for users on slower connections or limited data plans, where minimizing data usage is crucial.
+
+# Things I want to know more about
