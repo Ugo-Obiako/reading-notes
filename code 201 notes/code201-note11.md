@@ -56,10 +56,10 @@ The sizes attribute defines the size of the image element relative to the viewpo
 
 #### 3. How is srcset more helpful for responsive images than CSS or JavaScript?
 
-- srcset is a native HTML feature, supported by modern web browsers, which means it doesn't rely on external libraries or scripts. This native support results in better performance and compatibility across a wide range of devices and browsers without the need for additional JavaScript or CSS libraries.
+srcset is a native HTML feature, supported by modern web browsers, which means it doesn't rely on external libraries or scripts. This native support results in better performance and compatibility across a wide range of devices and browsers without the need for additional JavaScript or CSS libraries.
 
-- With srcset, the browser automatically selects the most appropriate image based on the device's screen resolution and viewport size. This ensures that users receive the best image for their specific device without any manual intervention or scripting.
+With srcset, the browser automatically selects the most appropriate image based on the device's screen resolution and viewport size. This ensures that users receive the best image for their specific device without any manual intervention or scripting.
 
-- srcset allows the browser to download only the necessary image resources, reducing unnecessary data transfer. This is especially important for users on slower connections or limited data plans, where minimizing data usage is crucial.
+srcset allows the browser to download only the necessary image resources, reducing unnecessary data transfer. This is especially important for users on slower connections or limited data plans, where minimizing data usage is crucial.
 
 # Things I want to know more about
