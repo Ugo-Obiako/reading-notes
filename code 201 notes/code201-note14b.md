@@ -1,4 +1,4 @@
-# Read 14: Psychological 
+# Read 14: Psychological Safety
 
 Psychological safety refers to the shared belief within a group or team that one can express ideas, opinions or concerns without fear of negative consequences.
 
