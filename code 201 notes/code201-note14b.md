@@ -34,3 +34,5 @@ On the Team Members:
 - Professional Growth
 - Stronger Interpersonal Relationships
 
+# Things I want to know more about
+
