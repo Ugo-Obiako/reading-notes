@@ -1,8 +1,8 @@
 # Read 01: Introduction to React and Components
 
-In component-based architecture, a system consists of individual, self-contained, and reusable components. 
-
 # Component-Based Architecture
+
+In component-based architecture, a system consists of individual, self-contained, and reusable components.
 
 #### What is a “component”?
 
