@@ -8,7 +8,7 @@ A component is a modular, portable, replaceable, and reusable set of well-define
 
 #### What are the characteristics of a component?
 
-The characteristics of a component are: Reusability, Replaceable, Not context specific, Extensible, Encapsulated, and Independent. 
+The characteristics of a component are that it is reusable, replaceable, extensible, encapsulated, independent, and not context specific.
 
 #### What are the advantages of using component-based architecture?
 
@@ -22,8 +22,16 @@ The advantages of using component-based architecture are:
 
 # What is Props and How to Use it in React
 
-What is “props” short for?
-How are props used in React?
-What is the flow of props?
+#### What is “props” short for?
+
+props stands for properties.
+
+#### How are props used in React?
+
+In React, props are used to pass data from one component to another. 
+
+#### What is the flow of props?
+
+Data flow through props is unidirectional from the parent component to the child components. The data passed through props from a parent component to a child component is considered read-only within the child component. By default, the child component cannot directly modify the props it receives from the parent component.
 
 # Things I want to know more about

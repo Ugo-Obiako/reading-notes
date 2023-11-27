@@ -64,3 +64,36 @@ JS Bin
 
 ## Things I want to know more 
 
+## Code 301 - Intermediate Software Development
+
+[Note 1](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note1)
+
+[Note 2](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note2)
+
+[Note 3](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note3)
+
+[Note 4](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note4)
+
+[Note 5](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note5)
+
+[Note 6](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note6)
+
+[Note 7](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note7)
+
+[Note 8](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note8)
+
+[Note 9](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note9)
+
+[Note 10](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note10)
+
+[Note 11](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note11)
+
+[Note 12](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note12)
+
+[Note 13](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note13)
+
+[Note 14](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note14)
+
+[Note 15](https://ugo-obiako.github.io/reading-notes/code-301-notes/code301-note15)
+
+## Things I want to know more 
