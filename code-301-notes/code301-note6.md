@@ -44,21 +44,13 @@ HTTP GET is used by systems to do a partial update.
 
 Request a personal API key from the following APIs. You should receive these in your email within a few hours, often within minutes. Please request these keys prior to lecture to allow adequate time because you will need them in order to complete your lab assignment. Note: do not post your API keys in the Canvas discussion or on GitHub. Save them in a secure place.
 
-Geocoding API
+Geocoding API: Did you get your API key? Yes
 
- Did you get your API key? Yes
+Weather Bit API: Did you get your API key? Yes
 
-Weather Bit API
+Yelp API Docs: Did you get your API key? Yes
 
-Did you get your API key? Yes
-
-Yelp API Docs
-
-Did you get your API key? Yes
-
-The Movie DB API Docs
-
-Did you get your API key? Yes
+The Movie DB API Docs: Did you get your API key? Yes
 
 # Things I want to know more about
 
