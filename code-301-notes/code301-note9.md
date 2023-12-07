@@ -1,4 +1,4 @@
-Read 09: Functional Programming
+# Read 09: Functional Programming
 
 #### 1. What is functional programming?
 
@@ -20,7 +20,7 @@ Immutability refers to the concept of once a data structure or value is created,
 
 Referential transparency refers to when a function always returns the same output for the same input with no side effects. 
 
-Node JS Tutorial for Beginners #6 - Modules and require()
+# Node JS Tutorial for Beginners #6 - Modules and require()
 
 #### 1. What is a module?
 
