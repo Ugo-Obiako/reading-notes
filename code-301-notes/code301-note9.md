@@ -28,7 +28,7 @@ A module is a reusable block of code that encapsulates related functionality, an
 
 #### 2. What does the word ‘require’ do?
 
-`require` is a built-in function used to import external modules or files into your current JavaScript file.
+`require()` is a built-in function used to import external modules or files into your current JavaScript file.
 
 #### 3. How do we bring another module into the file the we are working in?
 
