@@ -24,7 +24,7 @@ The image above is a stack of 3 functions. When a function finishes its executio
 
 A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser has a maximum stack call that it can accomodate before throwing a stack error.
 
-JavaScript error messages
+# JavaScript error messages
 
 #### 1. What is a ‘reference error’?
 
