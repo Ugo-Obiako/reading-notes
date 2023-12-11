@@ -68,7 +68,7 @@ MongoDB is generally considered more flexible than SQL databases, especially whe
 
 Some of the disadvantages of NoSQL database are:
 
-- Limited Querying Capabilities
-- Potential Data Redundancy
+- Limited querying capabilities
+- Potential data redundancy
 
 # Things I want to know more about
