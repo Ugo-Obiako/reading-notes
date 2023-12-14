@@ -8,7 +8,7 @@ Personal computers started showing up in U.S. homes in significant numbers.
 
 According to the article, males are good at computers because they grew up playing on computers.
 
-# Why diversity matters to your tech company
+# Why diversity matters to the tech company
 
 #### 1. When are diversity efforts most successful?
 
